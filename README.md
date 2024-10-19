@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhuvneshwebsolutions
-- 👀 I’m interested in Developement
-- 🌱 I’m currently learning Networking
+- 👋 Hi, I’m @bhuvnesh-nama
+- 👀 I’m interested in development
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhuvnesh@bhuvnesh.com
 - 😄 Pronouns: ...
