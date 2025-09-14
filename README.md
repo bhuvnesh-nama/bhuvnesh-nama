@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **web development projects (MERN, Next.js)**
-- 🌱 Exploring **AI/ML** and **Flutter**
+- 🌱 Exploring **AI/ML** and **Flutter** and **DSA**
 - 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/bhuvnesh-nama?tab=repositories)
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Docker**
 - ⚡ Fun fact: I love building **optimized apps** and managing **scalable systems**
