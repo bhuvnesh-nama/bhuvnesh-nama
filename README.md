@@ -22,10 +22,10 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" width="40" /></a>
-<a href="https://twitter.com/YOUR-HANDLE" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
+<p align="left" gap="20px">
+<a href="https://www.linkedin.com/in/bhuvnesh-nama-23660a354" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="mailto:bhuvneshnama08@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" width="40" /></a>
+<a href="https://twitter.com/bhuvnesh_nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
 </p>
 
 ---
