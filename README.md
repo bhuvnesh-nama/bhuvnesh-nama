@@ -32,11 +32,16 @@
 
 ## 💻 Tech Stack
 <p align="center">
+  <!-- Animated -->
   <img src="https://img.icons8.com/color/96/000000/javascript--v1.gif" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/react-native.gif" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/docker.gif" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/000000/git.gif" width="50" height="50"/>
+
+  <!-- Static -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/>
 </p>
+
 
 
 ---
