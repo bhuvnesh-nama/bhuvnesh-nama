@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **web development projects (MERN, Next.js, Docker)**
-- 🌱 Exploring **AI/ML** and **Cybersecurity basics**
-- 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/BhuvneshNama?tab=repositories)
+- 🔭 I’m currently working on **web development projects (MERN, Next.js)**
+- 🌱 Exploring **AI/ML** and **Flutter**
+- 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/bhuvnesh-nama?tab=repositories)
 - 💬 Ask me about **React, Node.js, MongoDB, Express, Docker**
 - ⚡ Fun fact: I love building **optimized apps** and managing **scalable systems**
 
@@ -50,22 +50,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhuvneshNama&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhuvneshNama&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvnesh-nama&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvnesh-nama&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BhuvneshNama&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=bhuvnesh-nama&theme=dracula&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
-[![Bhuvnesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BhuvneshNama&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bhuvnesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvnesh-nama&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-⭐️ From [Bhuvnesh Nama](https://github.com/BhuvneshNama)
+⭐️ From [Bhuvnesh Nama](https://github.com/bhuvnesh-nama)
