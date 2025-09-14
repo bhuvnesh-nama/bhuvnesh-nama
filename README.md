@@ -25,7 +25,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bhuvnesh-nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:bhuvneshnama08@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/bhuvnesh_nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://twitter.com/bhuvnesh_nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/bhuvnesh_nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="twitter" height="40" width="40" /></a>
 </p>
 
 ---
