@@ -75,9 +75,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Contribution Snake](https://raw.githubusercontent.com/bhuvnesh-nama/bhuvnesh-nama/main/snake.gif)
-
----
-
 ⭐️ From [Bhuvnesh Nama](https://github.com/bhuvnesh-nama)
