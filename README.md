@@ -76,7 +76,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/bhuvnesh-nama/bhuvnesh-nama/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/bhuvnesh-nama/bhuvnesh-nama/output/dist/snake.svg)
 
 ---
 
