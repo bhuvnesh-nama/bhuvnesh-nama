@@ -26,9 +26,10 @@
 <a href="https://www.linkedin.com/in/bhuvnesh-nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:bhuvneshnama08@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/bhuvnesh_nama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.com/users/your-discord-id-or-invite" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="discord" height="40" width="40" />
+<a href="https://discord.gg/your-invite" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="discord" height="40" width="40" />
 </a>
+
 
 </p>
 
