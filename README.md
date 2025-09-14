@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7EF&center=true&vCenter=true&width=500&lines=Full-stack+Developer;MERN+Stack+Specialist;AI%2FML+Explorer;Flutter+Learner;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif" width="250px" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif"  alt="coding gif"/>
 </p>
 
 ---
